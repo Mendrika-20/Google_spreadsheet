@@ -36,9 +36,13 @@ Schéma du dossier projet_Google_Spreadsheet:
 
 └── README.md
 
+
+Pré-requis :
+
 Gem nécessaire à installer pour le fonctionnement de l'application :
 
-Ruby '2.7.1'
+
+*Ruby '2.7.1'
 gem 'rspec'
 gem 'pry'
 gem 'Rubocop
@@ -48,10 +52,10 @@ gem 'json'
 gem 'csv'
 
 
-APPLICATION:
+Déroulement du projet:
 Après l'installation des gems, l'éxécution du programme est simple à manipuler: il suffit d'ouvrir le terminal dans le dossier puis tapez ruby app.rb et on aura toutes la liste des emails dans mairies qui est rediriger vers le site https://www.annuaire-des-mairies.com/val-d-oise.html .
 
 Auteur :
-Ce projet a été réaliser par :RAKOTONJANAHARY MAMINIAINA MENDRIKA
+Ce projet a été réaliser par :RAKOTONJANAHARY Maminiaina Mendrika
 
 								
