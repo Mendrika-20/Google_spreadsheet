@@ -60,7 +60,6 @@ Après l'installation des gems, l'éxécution du programme est simple à manipul
 
 
 
-Auteur :
-Ce projet a été réaliser par :RAKOTONJANAHARY Maminiaina Mendrika
+Auteur: RAKOTONJANAHARY Maminiaina Mendrika
 
 								
