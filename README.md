@@ -55,7 +55,9 @@ Gem nécessaire à installer pour le fonctionnement de l'application :
 
 
 
-Déroulement du projet:
+° Déroulement du Projet
+
+
 Après l'installation des gems, l'éxécution du programme est simple à manipuler: il suffit d'ouvrir le terminal dans le dossier puis tapez ruby app.rb et on aura toutes la liste des emails dans mairies qui est rediriger vers le site https://www.annuaire-des-mairies.com/val-d-oise.html .
 
 
